@@ -1,5 +1,7 @@
 # This Project was meant for Practice Purpose
 
+# https://challenge-3fa5b.web.app/ ###<<< hosted webapp
+
 ## It has Major Functionalities of Login, Signup, Place Order, Payment Gateway Through Stripe (Test), Order History For User.
 #
 ## For Starting the project on localhost, first Login/Signup on Stripe use the Publishable Test Key from Api of Stripe and put it in App.js in SRC folder in Fucntions folder, Index.js> copy Secret key.
