@@ -10,5 +10,41 @@
 # In Terminal 1 >> go to the local project folder and run >>> npm start
 # In Terminal 2 >> go to functions>> firebase emulators:start
 #
-# YOU ARE READY TO GO!
+# YOU ARE READY TO GO! 🚀 🚀
 # This project is completly based on TESTING purpose not for PRODUCTION.
+#
+#
+#
+# Screenshots
+
+## 1.Home Page
+
+<img src="screenshots/Home%20page.png" width="1000">
+
+## 2.Login Page
+
+<img src="screenshots/Login.png" width="1000">
+
+## 3.Basket
+
+<img src="screenshots/Basket.png" width="1000">
+
+## 4.Checkout
+
+<img src="screenshots/Checkout%20Page.png" width="1000">
+
+## 5.Order History 
+
+<img src="screenshots/Your%20Orders%20History.png" width="1000">
+
+## 6.Firebase Order In FireStore
+
+<img src="screenshots/firebase%20orders.png" width="1000">
+
+## 7.Stripe Prewiew
+
+<img src="screenshots/Preview%20Stripe.png" width="1000">
+
+## 8. Stripe Success Payments
+
+<img src="screenshots/Stripe%20Success.png" width="1000">
